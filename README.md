@@ -1,4 +1,4 @@
-# golang-helloworld
+### go - Print helloworld
 1. you must already go in your pc
 2. clone this repository
 3. open your terminal 
